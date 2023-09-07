@@ -3,10 +3,10 @@
 
 <br/>
 
-Skills <br/><br/>
+# Skills
 <img src="https://skillicons.dev/icons?i=html,css,js" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 <br/>
 <br/>
 
-Socials <br/><br/>
+# Socials
 <img src="https://skillicons.dev/icons?i=linkedin" />
